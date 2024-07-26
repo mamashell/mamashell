@@ -38,7 +38,7 @@ A personal goal of mine is to create mods and scripts for The Sims 4 or other Si
 Music is such a huge motivator for me! It helps me relax and focus while doing pretty much any task, especially chores 😂 <br>
 I listen to many genres, but I am a sucker for a good video game soundtrack or Korean music. Take a peek at what I'm currently listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mamashelll&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mamashelll&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mamashelll&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=mamashelll&redirect=true)
 
 # Thanks for stopping by!
 
